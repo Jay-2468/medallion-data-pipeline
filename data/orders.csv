@@ -1,0 +1,19 @@
+order_id,customer_id,customer_name,location,product,category,quantity,unit_price,discount,order_date,payment_method,status
+O001,C001,Ananya,Bangalore,Laptop,Electronics,1,60000,0.10,2026-01-05,UPI,Completed
+O002,C002,Rohit,Chennai,Mouse,Electronics,2,800,0.00,2026-01-06,Credit Card,Completed
+O003,C003,Sneha,Pune,Chair,Furniture,1,4500,0.05,2026-01-07,UPI,Completed
+O004,C004,Raj,Surat,Keyboard,Electronics,1,1500,0.00,2026-01-08,Cash,Completed
+O005,C001,Ananya,Bangalore,Monitor,Electronics,2,12000,0.10,2026-01-10,Credit Card,Completed
+O006,C002,Rohit,Chennai,Desk,Furniture,1,7000,0.15,2026-01-11,UPI,Cancelled
+O007,C003,Sneha,Pune,Headphones,Electronics,2,2500,0.05,2026-01-12,Debit Card,Completed
+O008,C004,Raj,Surat,Chair,Furniture,2,4500,0.00,2026-01-13,Cash,Completed
+O009,C001,Ananya,Bangalore,Laptop,Electronics,1,60000,0.10,2026-01-15,UPI,Completed
+O009,C001,Ananya,Bangalore,Laptop,Electronics,1,60000,0.10,2026-01-15,UPI,Completed
+O010,C005,Meera,Delhi,Phone,Electronics,1,30000,0.20,2026-01-16,UPI,Completed
+O011,C006,Arjun,Mumbai,Table,Furniture,1,8000,0.00,2026-01-17,Credit Card,Completed
+O012,C002,Rohit,Chennai,Keyboard,Electronics,3,1500,0.10,2026-01-18,UPI,Completed
+O013,C003,Sneha,Pune,Mouse,Electronics,2,800,0.00,2026-01-19,Cash,Returned
+O014,C004,Raj,Surat,Monitor,Electronics,1,12000,0.05,2026-01-20,Credit Card,Completed
+O015,C005,Meera,Delhi,Chair,Furniture,1,4500,0.10,2026-01-21,UPI,Completed
+O016,C006,Arjun,Mumbai,Table,Furniture,,8000,0.00,2026-01-22,Credit Card,Completed
+O017,C007,,Delhi,Phone,Electronics,1,30000,0.10,2026-01-23,UPI,Completed
